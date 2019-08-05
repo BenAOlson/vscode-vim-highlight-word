@@ -1,0 +1,1864 @@
+{
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["f", "0"],
+            "after": ["f", "0"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "1"],
+            "after": ["f", "1"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "2"],
+            "after": ["f", "2"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "3"],
+            "after": ["f", "3"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "4"],
+            "after": ["f", "4"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "5"],
+            "after": ["f", "5"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "6"],
+            "after": ["f", "6"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "7"],
+            "after": ["f", "7"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "8"],
+            "after": ["f", "8"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "9"],
+            "after": ["f", "9"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "!"],
+            "after": ["f", "!"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "@"],
+            "after": ["f", "@"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "#"],
+            "after": ["f", "#"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "$"],
+            "after": ["f", "$"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "%"],
+            "after": ["f", "%"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "^"],
+            "after": ["f", "^"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "&"],
+            "after": ["f", "&"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "*"],
+            "after": ["f", "*"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "("],
+            "after": ["f", "("],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", ")"],
+            "after": ["f", ")"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "-"],
+            "after": ["f", "-"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "_"],
+            "after": ["f", "_"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "="],
+            "after": ["f", "="],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "`"],
+            "after": ["f", "`"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "~"],
+            "after": ["f", "~"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "["],
+            "after": ["f", "["],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "{"],
+            "after": ["f", "{"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "]"],
+            "after": ["f", "]"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "}"],
+            "after": ["f", "}"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "\\"],
+            "after": ["f", "\\"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "|"],
+            "after": ["f", "|"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", ";"],
+            "after": ["f", ";"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", ":"],
+            "after": ["f", ":"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "'"],
+            "after": ["f", "'"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "\""],
+            "after": ["f", "\""],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", ","],
+            "after": ["f", ","],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "<"],
+            "after": ["f", "<"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "."],
+            "after": ["f", "."],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", ">"],
+            "after": ["f", ">"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "/"],
+            "after": ["f", "/"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "?"],
+            "after": ["f", "?"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "q"],
+            "after": ["f", "q"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "w"],
+            "after": ["f", "w"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "e"],
+            "after": ["f", "e"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "r"],
+            "after": ["f", "r"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "t"],
+            "after": ["f", "t"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "y"],
+            "after": ["f", "y"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "u"],
+            "after": ["f", "u"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "i"],
+            "after": ["f", "i"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "o"],
+            "after": ["f", "o"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "p"],
+            "after": ["f", "p"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "a"],
+            "after": ["f", "a"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "s"],
+            "after": ["f", "s"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "d"],
+            "after": ["f", "d"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "f"],
+            "after": ["f", "f"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "g"],
+            "after": ["f", "g"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "h"],
+            "after": ["f", "h"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "j"],
+            "after": ["f", "j"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "k"],
+            "after": ["f", "k"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "l"],
+            "after": ["f", "l"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "z"],
+            "after": ["f", "z"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "x"],
+            "after": ["f", "x"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "c"],
+            "after": ["f", "c"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "v"],
+            "after": ["f", "v"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "b"],
+            "after": ["f", "b"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "n"],
+            "after": ["f", "n"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "m"],
+            "after": ["f", "m"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "Q"],
+            "after": ["f", "Q"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "W"],
+            "after": ["f", "W"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "E"],
+            "after": ["f", "E"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "R"],
+            "after": ["f", "R"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "T"],
+            "after": ["f", "T"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "Y"],
+            "after": ["f", "Y"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "U"],
+            "after": ["f", "U"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "I"],
+            "after": ["f", "I"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "O"],
+            "after": ["f", "O"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "P"],
+            "after": ["f", "P"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "A"],
+            "after": ["f", "A"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "S"],
+            "after": ["f", "S"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "D"],
+            "after": ["f", "D"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "F"],
+            "after": ["f", "F"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "G"],
+            "after": ["f", "G"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "H"],
+            "after": ["f", "H"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "J"],
+            "after": ["f", "J"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "K"],
+            "after": ["f", "K"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "L"],
+            "after": ["f", "L"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "Z"],
+            "after": ["f", "Z"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "X"],
+            "after": ["f", "X"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "C"],
+            "after": ["f", "C"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "V"],
+            "after": ["f", "V"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "B"],
+            "after": ["f", "B"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "N"],
+            "after": ["f", "N"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["f", "M"],
+            "after": ["f", "M"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "0"],
+            "after": ["F", "0"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "1"],
+            "after": ["F", "1"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "2"],
+            "after": ["F", "2"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "3"],
+            "after": ["F", "3"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "4"],
+            "after": ["F", "4"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "5"],
+            "after": ["F", "5"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "6"],
+            "after": ["F", "6"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "7"],
+            "after": ["F", "7"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "8"],
+            "after": ["F", "8"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "9"],
+            "after": ["F", "9"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "!"],
+            "after": ["F", "!"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "@"],
+            "after": ["F", "@"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "#"],
+            "after": ["F", "#"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "$"],
+            "after": ["F", "$"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "%"],
+            "after": ["F", "%"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "^"],
+            "after": ["F", "^"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "&"],
+            "after": ["F", "&"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "*"],
+            "after": ["F", "*"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "("],
+            "after": ["F", "("],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", ")"],
+            "after": ["F", ")"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "-"],
+            "after": ["F", "-"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "_"],
+            "after": ["F", "_"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "="],
+            "after": ["F", "="],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "`"],
+            "after": ["F", "`"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "~"],
+            "after": ["F", "~"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "["],
+            "after": ["F", "["],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "{"],
+            "after": ["F", "{"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "]"],
+            "after": ["F", "]"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "}"],
+            "after": ["F", "}"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "\\"],
+            "after": ["F", "\\"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "|"],
+            "after": ["F", "|"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", ";"],
+            "after": ["F", ";"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", ":"],
+            "after": ["F", ":"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "'"],
+            "after": ["F", "'"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "\""],
+            "after": ["F", "\""],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", ","],
+            "after": ["F", ","],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "<"],
+            "after": ["F", "<"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "."],
+            "after": ["F", "."],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", ">"],
+            "after": ["F", ">"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "/"],
+            "after": ["F", "/"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "?"],
+            "after": ["F", "?"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "q"],
+            "after": ["F", "q"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "w"],
+            "after": ["F", "w"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "e"],
+            "after": ["F", "e"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "r"],
+            "after": ["F", "r"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "t"],
+            "after": ["F", "t"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "y"],
+            "after": ["F", "y"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "u"],
+            "after": ["F", "u"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "i"],
+            "after": ["F", "i"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "o"],
+            "after": ["F", "o"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "p"],
+            "after": ["F", "p"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "a"],
+            "after": ["F", "a"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "s"],
+            "after": ["F", "s"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "d"],
+            "after": ["F", "d"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "f"],
+            "after": ["F", "f"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "g"],
+            "after": ["F", "g"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "h"],
+            "after": ["F", "h"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "j"],
+            "after": ["F", "j"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "k"],
+            "after": ["F", "k"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "l"],
+            "after": ["F", "l"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "z"],
+            "after": ["F", "z"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "x"],
+            "after": ["F", "x"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "c"],
+            "after": ["F", "c"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "v"],
+            "after": ["F", "v"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "b"],
+            "after": ["F", "b"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "n"],
+            "after": ["F", "n"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "m"],
+            "after": ["F", "m"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "Q"],
+            "after": ["F", "Q"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "W"],
+            "after": ["F", "W"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "E"],
+            "after": ["F", "E"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "R"],
+            "after": ["F", "R"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "T"],
+            "after": ["F", "T"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "Y"],
+            "after": ["F", "Y"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "U"],
+            "after": ["F", "U"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "I"],
+            "after": ["F", "I"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "O"],
+            "after": ["F", "O"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "P"],
+            "after": ["F", "P"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "A"],
+            "after": ["F", "A"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "S"],
+            "after": ["F", "S"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "D"],
+            "after": ["F", "D"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "F"],
+            "after": ["F", "F"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "G"],
+            "after": ["F", "G"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "H"],
+            "after": ["F", "H"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "J"],
+            "after": ["F", "J"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "K"],
+            "after": ["F", "K"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "L"],
+            "after": ["F", "L"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "Z"],
+            "after": ["F", "Z"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "X"],
+            "after": ["F", "X"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "C"],
+            "after": ["F", "C"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "V"],
+            "after": ["F", "V"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "B"],
+            "after": ["F", "B"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "N"],
+            "after": ["F", "N"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["F", "M"],
+            "after": ["F", "M"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "0"],
+            "after": ["t", "0"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "1"],
+            "after": ["t", "1"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "2"],
+            "after": ["t", "2"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "3"],
+            "after": ["t", "3"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "4"],
+            "after": ["t", "4"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "5"],
+            "after": ["t", "5"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "6"],
+            "after": ["t", "6"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "7"],
+            "after": ["t", "7"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "8"],
+            "after": ["t", "8"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "9"],
+            "after": ["t", "9"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "!"],
+            "after": ["t", "!"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "@"],
+            "after": ["t", "@"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "#"],
+            "after": ["t", "#"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "$"],
+            "after": ["t", "$"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "%"],
+            "after": ["t", "%"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "^"],
+            "after": ["t", "^"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "&"],
+            "after": ["t", "&"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "*"],
+            "after": ["t", "*"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "("],
+            "after": ["t", "("],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", ")"],
+            "after": ["t", ")"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "-"],
+            "after": ["t", "-"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "_"],
+            "after": ["t", "_"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "="],
+            "after": ["t", "="],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "`"],
+            "after": ["t", "`"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "~"],
+            "after": ["t", "~"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "["],
+            "after": ["t", "["],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "{"],
+            "after": ["t", "{"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "]"],
+            "after": ["t", "]"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "}"],
+            "after": ["t", "}"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "\\"],
+            "after": ["t", "\\"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "|"],
+            "after": ["t", "|"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", ";"],
+            "after": ["t", ";"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", ":"],
+            "after": ["t", ":"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "'"],
+            "after": ["t", "'"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "\""],
+            "after": ["t", "\""],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", ","],
+            "after": ["t", ","],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "<"],
+            "after": ["t", "<"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "."],
+            "after": ["t", "."],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", ">"],
+            "after": ["t", ">"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "/"],
+            "after": ["t", "/"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "?"],
+            "after": ["t", "?"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "q"],
+            "after": ["t", "q"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "w"],
+            "after": ["t", "w"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "e"],
+            "after": ["t", "e"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "r"],
+            "after": ["t", "r"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "t"],
+            "after": ["t", "t"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "y"],
+            "after": ["t", "y"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "u"],
+            "after": ["t", "u"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "i"],
+            "after": ["t", "i"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "o"],
+            "after": ["t", "o"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "p"],
+            "after": ["t", "p"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "a"],
+            "after": ["t", "a"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "s"],
+            "after": ["t", "s"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "d"],
+            "after": ["t", "d"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "f"],
+            "after": ["t", "f"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "g"],
+            "after": ["t", "g"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "h"],
+            "after": ["t", "h"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "j"],
+            "after": ["t", "j"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "k"],
+            "after": ["t", "k"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "l"],
+            "after": ["t", "l"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "z"],
+            "after": ["t", "z"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "x"],
+            "after": ["t", "x"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "c"],
+            "after": ["t", "c"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "v"],
+            "after": ["t", "v"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "b"],
+            "after": ["t", "b"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "n"],
+            "after": ["t", "n"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "m"],
+            "after": ["t", "m"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "Q"],
+            "after": ["t", "Q"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "W"],
+            "after": ["t", "W"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "E"],
+            "after": ["t", "E"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "R"],
+            "after": ["t", "R"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "T"],
+            "after": ["t", "T"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "Y"],
+            "after": ["t", "Y"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "U"],
+            "after": ["t", "U"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "I"],
+            "after": ["t", "I"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "O"],
+            "after": ["t", "O"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "P"],
+            "after": ["t", "P"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "A"],
+            "after": ["t", "A"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "S"],
+            "after": ["t", "S"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "D"],
+            "after": ["t", "D"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "F"],
+            "after": ["t", "F"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "G"],
+            "after": ["t", "G"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "H"],
+            "after": ["t", "H"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "J"],
+            "after": ["t", "J"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "K"],
+            "after": ["t", "K"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "L"],
+            "after": ["t", "L"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "Z"],
+            "after": ["t", "Z"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "X"],
+            "after": ["t", "X"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "C"],
+            "after": ["t", "C"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "V"],
+            "after": ["t", "V"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "B"],
+            "after": ["t", "B"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "N"],
+            "after": ["t", "N"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["t", "M"],
+            "after": ["t", "M"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "0"],
+            "after": ["T", "0"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "1"],
+            "after": ["T", "1"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "2"],
+            "after": ["T", "2"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "3"],
+            "after": ["T", "3"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "4"],
+            "after": ["T", "4"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "5"],
+            "after": ["T", "5"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "6"],
+            "after": ["T", "6"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "7"],
+            "after": ["T", "7"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "8"],
+            "after": ["T", "8"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "9"],
+            "after": ["T", "9"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "!"],
+            "after": ["T", "!"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "@"],
+            "after": ["T", "@"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "#"],
+            "after": ["T", "#"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "$"],
+            "after": ["T", "$"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "%"],
+            "after": ["T", "%"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "^"],
+            "after": ["T", "^"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "&"],
+            "after": ["T", "&"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "*"],
+            "after": ["T", "*"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "("],
+            "after": ["T", "("],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", ")"],
+            "after": ["T", ")"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "-"],
+            "after": ["T", "-"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "_"],
+            "after": ["T", "_"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "="],
+            "after": ["T", "="],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "`"],
+            "after": ["T", "`"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "~"],
+            "after": ["T", "~"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "["],
+            "after": ["T", "["],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "{"],
+            "after": ["T", "{"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "]"],
+            "after": ["T", "]"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "}"],
+            "after": ["T", "}"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "\\"],
+            "after": ["T", "\\"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "|"],
+            "after": ["T", "|"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", ";"],
+            "after": ["T", ";"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", ":"],
+            "after": ["T", ":"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "'"],
+            "after": ["T", "'"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "\""],
+            "after": ["T", "\""],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", ","],
+            "after": ["T", ","],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "<"],
+            "after": ["T", "<"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "."],
+            "after": ["T", "."],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", ">"],
+            "after": ["T", ">"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "/"],
+            "after": ["T", "/"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "?"],
+            "after": ["T", "?"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "q"],
+            "after": ["T", "q"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "w"],
+            "after": ["T", "w"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "e"],
+            "after": ["T", "e"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "r"],
+            "after": ["T", "r"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "t"],
+            "after": ["T", "t"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "y"],
+            "after": ["T", "y"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "u"],
+            "after": ["T", "u"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "i"],
+            "after": ["T", "i"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "o"],
+            "after": ["T", "o"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "p"],
+            "after": ["T", "p"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "a"],
+            "after": ["T", "a"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "s"],
+            "after": ["T", "s"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "d"],
+            "after": ["T", "d"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "f"],
+            "after": ["T", "f"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "g"],
+            "after": ["T", "g"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "h"],
+            "after": ["T", "h"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "j"],
+            "after": ["T", "j"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "k"],
+            "after": ["T", "k"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "l"],
+            "after": ["T", "l"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "z"],
+            "after": ["T", "z"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "x"],
+            "after": ["T", "x"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "c"],
+            "after": ["T", "c"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "v"],
+            "after": ["T", "v"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "b"],
+            "after": ["T", "b"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "n"],
+            "after": ["T", "n"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "m"],
+            "after": ["T", "m"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "Q"],
+            "after": ["T", "Q"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "W"],
+            "after": ["T", "W"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "E"],
+            "after": ["T", "E"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "R"],
+            "after": ["T", "R"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "T"],
+            "after": ["T", "T"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "Y"],
+            "after": ["T", "Y"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "U"],
+            "after": ["T", "U"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "I"],
+            "after": ["T", "I"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "O"],
+            "after": ["T", "O"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "P"],
+            "after": ["T", "P"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "A"],
+            "after": ["T", "A"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "S"],
+            "after": ["T", "S"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "D"],
+            "after": ["T", "D"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "F"],
+            "after": ["T", "F"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "G"],
+            "after": ["T", "G"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "H"],
+            "after": ["T", "H"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "J"],
+            "after": ["T", "J"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "K"],
+            "after": ["T", "K"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "L"],
+            "after": ["T", "L"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "Z"],
+            "after": ["T", "Z"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "X"],
+            "after": ["T", "X"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "C"],
+            "after": ["T", "C"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "V"],
+            "after": ["T", "V"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "B"],
+            "after": ["T", "B"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "N"],
+            "after": ["T", "N"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+        {
+            "before": ["T", "M"],
+            "after": ["T", "M"],
+            "commands": ["editor.action.wordHighlight.trigger"]
+        },
+    ],
+}
